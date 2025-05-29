@@ -4,53 +4,53 @@
 # --------------------------------------------
 
 # Pornografía popular (top sitios)
-pornhub.com^
-www.pornhub.com^
-xvideos.com^
-www.xvideos.com^
-xnxx.com^
-www.xnxx.com^
-redtube.com^
-www.redtube.com^
-youjizz.com^
-www.youjizz.com^
-youporn.com^
-www.youporn.com^
-brazzers.com^
-www.brazzers.com^
-spankbang.com^
-www.spankbang.com^
-tnaflix.com^
-www.tnaflix.com^
-camwhores.tv^
-onlyfans.com^
-fansly.com^
-morritastube.com^
+0.0.0.0 pornhub.com
+0.0.0.0 www.pornhub.com
+0.0.0.0 xvideos.com
+0.0.0.0 www.xvideos.com
+0.0.0.0 xnxx.com
+0.0.0.0 www.xnxx.com
+0.0.0.0 redtube.com
+0.0.0.0 www.redtube.com
+0.0.0.0 youjizz.com
+0.0.0.0 www.youjizz.com
+0.0.0.0 youporn.com
+0.0.0.0 www.youporn.com
+0.0.0.0 brazzers.com
+0.0.0.0 www.brazzers.com
+0.0.0.0 spankbang.com
+0.0.0.0 www.spankbang.com
+0.0.0.0 tnaflix.com
+0.0.0.0 www.tnaflix.com
+0.0.0.0 camwhores.tv
+0.0.0.0 onlyfans.com
+0.0.0.0 fansly.com
+0.0.0.0 morritastube.com
 
 # Sitios de contenido erótico / webcams
-livejasmin.com^
-chaturbate.com^
-bongacams.com^
-myfreecams.com^
-camsoda.com^
-streamate.com^
+0.0.0.0 livejasmin.com
+0.0.0.0 chaturbate.com
+0.0.0.0 bongacams.com
+0.0.0.0 myfreecams.com
+0.0.0.0 camsoda.com
+0.0.0.0 streamate.com
 
 # Sitios relacionados con satanismo / ocultismo
-churchofsatan.com^
-joyofsatan.org^
-theisticsatanism.com^
-satanic-kindred.org^
-templeofsatan.com^
-thesatanictemple.com^
-luciferianapotheca.com^
-satanicreds.org^
-satanismtoday.net^
-satannet.com^
+0.0.0.0 churchofsatan.com
+0.0.0.0 joyofsatan.org
+0.0.0.0 theisticsatanism.com
+0.0.0.0 satanic-kindred.org
+0.0.0.0 templeofsatan.com
+0.0.0.0 thesatanictemple.com
+0.0.0.0 luciferianapotheca.com
+0.0.0.0 satanicreds.org
+0.0.0.0 satanismtoday.net
+0.0.0.0 satannet.com
 
 # Esoterismo extremo (ocultismo peligroso, invocaciones, etc.)
-left-hand-path.net^
-occultforum.org^
-blackwitchcoven.com^
-demonolatry.org^
-invocationcircle.com^
-infernaltemple.org^
+0.0.0.0 left-hand-path.net
+0.0.0.0 occultforum.org
+0.0.0.0 blackwitchcoven.com
+0.0.0.0 demonolatry.org
+0.0.0.0 invocationcircle.com
+0.0.0.0 infernaltemple.org
