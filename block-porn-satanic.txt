@@ -1,0 +1,56 @@
+# --------------------------------------------
+# Lista personalizada Pi-hole
+# Contenido bloqueado: Pornografía y satanismo
+# --------------------------------------------
+
+# Pornografía popular (top sitios)
+pornhub.com
+www.pornhub.com
+xvideos.com
+www.xvideos.com
+xnxx.com
+www.xnxx.com
+redtube.com
+www.redtube.com
+youjizz.com
+www.youjizz.com
+youporn.com
+www.youporn.com
+brazzers.com
+www.brazzers.com
+spankbang.com
+www.spankbang.com
+tnaflix.com
+www.tnaflix.com
+camwhores.tv
+onlyfans.com
+fansly.com
+morritastube.com
+
+# Sitios de contenido erótico / webcams
+livejasmin.com
+chaturbate.com
+bongacams.com
+myfreecams.com
+camsoda.com
+streamate.com
+
+# Sitios relacionados con satanismo / ocultismo
+churchofsatan.com
+joyofsatan.org
+theisticsatanism.com
+satanic-kindred.org
+templeofsatan.com
+thesatanictemple.com
+luciferianapotheca.com
+satanicreds.org
+satanismtoday.net
+satannet.com
+
+# Esoterismo extremo (ocultismo peligroso, invocaciones, etc.)
+left-hand-path.net
+occultforum.org
+blackwitchcoven.com
+demonolatry.org
+invocationcircle.com
+infernaltemple.org
