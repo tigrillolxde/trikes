@@ -5,55 +5,55 @@
 # ----------------------------------------
 
 # Google Ads
-pagead2.googlesyndication.com^
-googleads.g.doubleclick.net^
-tpc.googlesyndication.com^
-ad.doubleclick.net^
-ads.google.com^
-ads.youtube.com^
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads.google.com
+0.0.0.0 ads.youtube.com
 
 # Amazon Ads
-fls-na.amazon.com^
-aax-us-east.amazon-adsystem.com^
-c.amazon-adsystem.com^
-s.amazon-adsystem.com^
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
 
 # Temu
-ads.temu.com^
-track.temu.com^
-analytics.temu.com^
-logging.temu.com^
-app.temu.com^
-api.temu.com^
+0.0.0.0 ads.temu.com
+0.0.0.0 track.temu.com
+0.0.0.0 analytics.temu.com
+0.0.0.0 logging.temu.com
+0.0.0.0 app.temu.com
+0.0.0.0 api.temu.com
 
 # AliExpress
-ad.aliexpress.com^
-g.alicdn.com^
-track.aliexpress.com^
-log.mmstat.com^
-render.aliexpress.com^
+0.0.0.0 ad.aliexpress.com
+0.0.0.0 g.alicdn.com
+0.0.0.0 track.aliexpress.com
+0.0.0.0 log.mmstat.com
+0.0.0.0 render.aliexpress.com
 
 # Liverpool
-ads.liverpool.com.mx^
-metrics.liverpool.com.mx^
-track.liverpool.com.mx^
-www.liverpool.com.mx^
+0.0.0.0 ads.liverpool.com.mx
+0.0.0.0 metrics.liverpool.com.mx
+0.0.0.0 track.liverpool.com.mx
+0.0.0.0 www.liverpool.com.mx
 
 # Tarjetas de crédito (publicidad general)
-ads.creditkarma.com^
-ads.americanexpress.com^
-offers.capitalone.com^
-marketing.banamex.com.mx^
-banco.santander.com.mx^
-ad.doubleclick.net^
+0.0.0.0 ads.creditkarma.com
+0.0.0.0 ads.americanexpress.com
+0.0.0.0 offers.capitalone.com
+0.0.0.0 marketing.banamex.com.mx
+0.0.0.0 banco.santander.com.mx
+0.0.0.0 ad.doubleclick.net
 
 # Apuestas y juegos de azar (Caliente, Codere, etc.)
-caliente.mx^
-ads.caliente.mx^
-tracking.caliente.mx^
-codere.mx^
-bet365.com^
-sports.bwin.com^
-mx.apuestas.codere.com^
-adserver.betfair.com^
-promos.betcris.com^
+0.0.0.0 caliente.mx
+0.0.0.0 ads.caliente.mx
+0.0.0.0 tracking.caliente.mx
+0.0.0.0 codere.mx
+0.0.0.0 bet365.com
+0.0.0.0 sports.bwin.com
+0.0.0.0 mx.apuestas.codere.com
+0.0.0.0 adserver.betfair.com
+0.0.0.0 promos.betcris.com
