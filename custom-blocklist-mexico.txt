@@ -5,55 +5,55 @@
 # ----------------------------------------
 
 # Google Ads
-pagead2.googlesyndication.com
-googleads.g.doubleclick.net
-tpc.googlesyndication.com
-ad.doubleclick.net
-ads.google.com
-ads.youtube.com
+pagead2.googlesyndication.com^
+googleads.g.doubleclick.net^
+tpc.googlesyndication.com^
+ad.doubleclick.net^
+ads.google.com^
+ads.youtube.com^
 
 # Amazon Ads
-fls-na.amazon.com
-aax-us-east.amazon-adsystem.com
-c.amazon-adsystem.com
-s.amazon-adsystem.com
+fls-na.amazon.com^
+aax-us-east.amazon-adsystem.com^
+c.amazon-adsystem.com^
+s.amazon-adsystem.com^
 
 # Temu
-ads.temu.com
-track.temu.com
-analytics.temu.com
-logging.temu.com
-app.temu.com
-api.temu.com
+ads.temu.com^
+track.temu.com^
+analytics.temu.com^
+logging.temu.com^
+app.temu.com^
+api.temu.com^
 
 # AliExpress
-ad.aliexpress.com
-g.alicdn.com
-track.aliexpress.com
-log.mmstat.com
-render.aliexpress.com
+ad.aliexpress.com^
+g.alicdn.com^
+track.aliexpress.com^
+log.mmstat.com^
+render.aliexpress.com^
 
 # Liverpool
-ads.liverpool.com.mx
-metrics.liverpool.com.mx
-track.liverpool.com.mx
-www.liverpool.com.mx
+ads.liverpool.com.mx^
+metrics.liverpool.com.mx^
+track.liverpool.com.mx^
+www.liverpool.com.mx^
 
 # Tarjetas de crédito (publicidad general)
-ads.creditkarma.com
-ads.americanexpress.com
-offers.capitalone.com
-marketing.banamex.com.mx
-banco.santander.com.mx
-ad.doubleclick.net
+ads.creditkarma.com^
+ads.americanexpress.com^
+offers.capitalone.com^
+marketing.banamex.com.mx^
+banco.santander.com.mx^
+ad.doubleclick.net^
 
 # Apuestas y juegos de azar (Caliente, Codere, etc.)
-caliente.mx
-ads.caliente.mx
-tracking.caliente.mx
-codere.mx
-bet365.com
-sports.bwin.com
-mx.apuestas.codere.com
-adserver.betfair.com
-promos.betcris.com
+caliente.mx^
+ads.caliente.mx^
+tracking.caliente.mx^
+codere.mx^
+bet365.com^
+sports.bwin.com^
+mx.apuestas.codere.com^
+adserver.betfair.com^
+promos.betcris.com^
